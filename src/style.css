@@ -1,3 +1,15 @@
 body{
-    background-color: rgb(59, 59, 165);
+    background-color: rgb(59, 68, 165);
+    padding: auto;
+}
+h1{
+    color: aliceblue;
+}
+player{
+    width: 80%;
+    float: left;
+}
+righ-panel{
+    width: 20%;
+    float: right;
 }

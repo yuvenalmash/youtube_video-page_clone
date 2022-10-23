@@ -1,14 +1,10 @@
-body{
-    background-color: rgb(255, 255, 255);
-}
+
 player{
     width: 80%;
+    float: left;
+    padding: 6px;
 }
 right-panel{
     width: 20%;
-}
-navlist {
-    background-color: #00d9a6;
-    width: 100%;
-    display: inline;
+    float: right;
 }
